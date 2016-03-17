@@ -36,7 +36,7 @@ layout: post
 
 	<ul>
 		{% for uc in page.usecases %}
-		<li><a href="{{ post_url uc[1] }}">{{ uc[0] }}</li>
+		<li><a href="{{ site.baseurl }}{{ post_url uc[1] }}">{{ uc[0] }}</li>
 			{% endfor %}
 		</ul>
 

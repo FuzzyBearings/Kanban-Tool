@@ -13,5 +13,5 @@ number: UC002
 
 ## Related Stories
 
-- [SPIKE Kanban Layout]({% post_url 2016-03-16-spike-kanban-layout %})
-- [SPIKE Move Story Across Kanban]({% post_url 2016-03-16-spike-move-story-across-kanban %})
+- [SPIKE Kanban Layout]({{ site.baseurl }}{% post_url 2016-03-16-spike-kanban-layout %})
+- [SPIKE Move Story Across Kanban]({{ site.baseurl }}{% post_url 2016-03-16-spike-move-story-across-kanban %})
